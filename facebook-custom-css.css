@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave&display=swap');
+
+/* blur text */
+.cwj9ozl2,
+.rrkovp55 {
+	filter:blur(3px);
+}
+
+* {
+	font-family: 'Sedgwick Ave', cursive !important;
+	font-weight: normal;
+	color: #999;
+}
+
+body {
+	background-image: url("https://www.itl.cat/pngfile/big/12-125222_eminem-2018-wallpaper-eminem-live.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+[role=banner] [role=navigation] ul {
+	background: black;
+}
+
+[role=navigation] [data-pagelet="LeftRail"] {
+	margin-left: 1em;
+}
+
+.pwoa4pd7,w
+[role=navigation] [data-pagelet="LeftRail"] [role=separator] {
+	display: none;
+}
+
+.oo9gr5id,
+[role=complementary] [data-pagelet="RightRail"] > div > div a .oo9gr5id {
+	color: #999;
+}
+
+[role=complementary] [data-pagelet="RightRail"] > div > div,
+[role=navigation] [data-pagelet="LeftRail"] > div > div > ul,
+[role=navigation] [data-pagelet="LeftRail"] > div > div > div {
+	background-color: rgba(0, 0, 0, .8);
+	border-radius: 20px;
+	margin-bottom: 1em;
+	padding: .5em;
+}
+
+[role=navigation] [data-pagelet="LeftRail"] > div > div > div .cwj9ozl2,
+[role=navigation] [data-pagelet="LeftRail"] > div > div > div .rrkovp55 {
+	filter:blur(0);
+}
+
+.b3i9ofy5,
+[role=complementary] [data-pagelet="RightRail"] > div > div a:hover,
+[role=navigation] [data-pagelet="LeftRail"] > div > div > div > ul li:hover a {
+	background-color: rgba(255, 255, 255, .2);
+}
+
+.nred35xi,
+.cwj9ozl2,
+.hybvsw6c {
+	background-color: rgba(0, 0, 0, .8);
+}
